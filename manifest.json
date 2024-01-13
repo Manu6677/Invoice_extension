@@ -1,0 +1,12 @@
+{
+  "name": "Invoice",
+  "version": "1.0.0",
+  "description": "Your Invoice Report",
+  "manifest_version": 3,
+  "author": "Manu",
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Invoice Report"
+  }
+}
